@@ -4,11 +4,14 @@
   "description": "starting to learn deployment ",
   "main": "index.js",
   "scripts": {
-   "start": "node index.js"
+    "start": "node index.js"
   },
   "keywords": [
     "node"
   ],
   "author": "Aswanth Madhav",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
